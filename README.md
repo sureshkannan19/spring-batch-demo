@@ -2,7 +2,7 @@ In this Spring-batch Demo project, i have implemented various features of Spring
 
 * WriterBatchConfiguration - <a href="https://github.com/sureshbabk19698/spring-batch-demo/blob/main/src/main/java/com/subabk/writers/WriterBatchConfiguration.java">Implemented different types of Writers.</a>
 * ReaderBatchConfiguration - <a href="https://github.com/sureshbabk19698/spring-batch-demo/blob/main/src/main/java/com/subabk/readers/ReaderBatchConfiguration.java">Implemented different types of Readers.</a>
-* SkipBatchConfiguration -  <a href="https://github.com/sureshbabk19698/spring-batch-demo/blob/main/src/main/java/com/subabk/skip/SkipBatchConfiguration.java">Implemented Skip approach</a>
+* SkipBatchConfiguration -  <a href="https://github.com/sureshbabk19698/spring-batch-demo/blob/main/src/main/java/com/subabk/skip/SkipBatchConfiguration.java">Application executes without failing, based on defined Error and error limit.</a>
 * JobDeciderBatchConfiguration - <a href="https://github.com/sureshbabk19698/spring-batch-demo/blob/main/src/main/java/com/subabk/jobdecider/JobDeciderBatchConfiguration.java">Application executes different steps based on condition.</a>
 * PartitionBatchConfiguration - <a href="https://github.com/sureshbabk19698/spring-batch-demo/blob/main/src/main/java/com/subabk/partitioner/PartitionerBatchConfiguration.java">Implemented Multi-Threading</a>
 * CacheBatchConfiguration - <a href="https://github.com/sureshbabk19698/spring-batch-demo/blob/main/src/main/java/com/subabk/cache/CacheBatchConfiguration.java">Implemented Caching.</a>
