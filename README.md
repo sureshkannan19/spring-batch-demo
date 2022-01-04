@@ -1,4 +1,4 @@
-**What is Spring Batch:- **
+What is Spring Batch:- 
  Spring batch is used to process high volume of Data in Batches.
  * Job Flow
  * Transaction Management
