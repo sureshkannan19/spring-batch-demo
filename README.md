@@ -9,4 +9,12 @@ In this Spring-batch Demo project, i have implemented various features of Spring
 * StatefulBatchConfiguration - <a href="https://github.com/sureshbabk19698/spring-batch-demo/blob/main/src/main/java/com/subabk/restart/StatefulBatchConfiguration.java">Implemented Restartable approach - restarts the application from where it was failed at last run.</a>
 
 
- Check here for Database Configuration: <a href="https://github.com/sureshbabk19698/spring-batch-demo/blob/main/src/main/java/com/subabk/config/DataSourceConfiguration.java">Click here</a> 
+Check here for Database Configuration: <a href="https://github.com/sureshbabk19698/spring-batch-demo/blob/main/src/main/java/com/subabk/config/DataSourceConfiguration.java">MySql</a> 
+
+Table Definition :  <a href="https://github.com/sureshbabk19698/spring-batch-demo/blob/main/src/main/java/com/subabk/config/DataSourceConfiguration.java">Click Here</a> 
+
+Models Used:- 
+Citizen- <a href="https://github.com/sureshbabk19698/spring-batch-demo/blob/main/src/main/java/com/subabk/bo/Citizen.java">Click here</a>
+
+
+
