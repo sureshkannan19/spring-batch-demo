@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<citizens>
+	<citizen>
+		<name>Suresh Babu K</name>
+		<age>23</age>
+		<gender>M</gender>
+		<address>No 28 Alandur Road</address>
+		<aadharNumber>1</aadharNumber>
+	</citizen>
+</citizens>
